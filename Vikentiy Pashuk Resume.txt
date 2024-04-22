@@ -1,0 +1,39 @@
+﻿Vikentiy Pashuk
+vikentiy.pashuk@gmail.com ❖ (709) 986-8066 ❖ St. John’s, NL ❖ www.linkedin.com/in/vikentiypashuk
+
+
+WORK EXPERIENCE 
+
+
+Student Residences                                                                           September 2022 –  Present 
+Academic Learning Tutor (Part-time)                                                                                 St. John’s, NL Elevated student success in physics and math by providing targeted support and tailored tutoring methods.
+* Elevated student success rates by providing targeted academic support, conducting thorough reviews of physics and math concepts, and addressing specific areas of weakness.
+* Demonstrated a commitment to student success by actively listening to individual challenges, tailoring tutoring methods to meet unique needs, and fostering an environment conducive to easier comprehension of complex subject matter.
+
+
+Memorial University                                                                         May 2023 – September 2023
+Fluid Dynamic Research Analyst (Contract)                                                                                   St. John’s, NL Engaged in in-depth exploration of fluid dynamics with a focus on oceanic flows, utilizing a comprehensive technical skill set to contribute to ongoing scientific research. Key responsibilities included:
+* Conducting an extensive literature review, analyzing and comprehending academic papers, elucidating intricate mathematical formulations pertinent to the study of oceanic flows.
+* Employing advanced computational techniques, particularly leveraging Matlab, to model and simulate ocean currents. Utilized telemetry data to inform and refine mathematical models, ensuring a precise representation of real-world oceanic conditions.
+* Developing and implementing sophisticated calculation and interpolation codes in Matlab to accurately simulate and analyze the complex dynamics of ocean currents, thereby contributing to the advancement of fluid dynamics research.
+* Employing the finite difference method within the Matlab environment to calculate trajectories, allowing for a nuanced understanding of the temporal evolution and spatial distribution of ocean currents. This involved the application of numerical analysis and computational fluid dynamics principles to generate precise and insightful trajectory predictions.
+Public Outreach                                                                               May 2022 –  August 2022
+Door-to-door fundraiser (Full-time)                                                                                        St. John’s, NL  Utilization of persuasive communication techniques to promote a charity's initiatives addressing global issues,
+* Developed sales skills by effectively articulating the charity's mission and the impact of donations on solving world problems.
+* Enhanced resilience and perseverance through facing rejection and overcoming objections while promoting the charity's cause.
+* Strengthened interpersonal skills by engaging with individuals from diverse backgrounds and building rapport to encourage support for the charity's initiatives.
+
+
+EDUCATION
+        
+Memorial University of Newfoundland                                                                                                 May, 2024 
+BSc (Hons), Physics                                                                                             St. John’s, NL
+* summa cum laude, 3.79/4.0 GPA, Dean’s List 2021-2023, Physics Book Prize 2023, Hugh Anderson Scholarship amounting to $3,800
+
+
+CERTIFICATIONS, SKILLS & INTERESTS
+
+
+* Certifications: AP Capstone Diploma
+* Skills: Python, Matlab, Fortran, R, finite element analysis, documentation, organization, knowledge of fluid dynamics, working in a team, computational modeling, technical writing
+* Interests: volleyball, Formula 1, ice baths, reading fiction, running, adventuring, biking, history, humor
